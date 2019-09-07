@@ -1,0 +1,25 @@
+{
+  "name": "exploreapollo",
+  "version": "1.0.0",
+  "description": "exploring apollo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "honey",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.3",
+    "apollo-server-express": "^2.9.3",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.1.0",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "graphql": "^14.5.4",
+    "graphql-tools": "^4.0.5",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.13",
+    "nodemon": "^1.19.2"
+  }
+}
